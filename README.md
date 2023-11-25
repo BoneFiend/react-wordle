@@ -166,6 +166,7 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 ### Fun themes
 
 - [Airportle](https://airportle.scottscheapflights.com/): Airport Codes
+- [Alterdle](https://alterdle.bonefiend.com/): Fully customisable, users can change the number of words to guess and the word length
 - [Anidal](https://anidal-abrarhayat.web.app/): Animals
 - [Birdle - Emojis](https://birdle.dev): Bird emojis
 - [Birdle](https://www.creek-birdle.com/): Birds
